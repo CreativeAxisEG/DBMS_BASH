@@ -35,7 +35,7 @@ To clone and run this repository you'll need Git and Node.js (which comes with n
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/CreativeAxisEG/DBMS_BASH.git
 # Go into the repository
 cd DBMS_BASH
 # Run the app
