@@ -39,11 +39,12 @@ git clone https://github.com/electron/electron-quick-start
 # Go into the repository
 cd DBMS_BASH
 # Run the app
-.DBMS_BASH
+. DBMS_BASH
 ```
 
 # GUI OUTPUT
 
+![MergedImages](https://user-images.githubusercontent.com/120844290/212448766-ab9c06de-04a3-4f18-8a89-0f858a4f582d.png)
 
 
 
